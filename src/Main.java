@@ -3,4 +3,8 @@ public class Main {
         int x =2;
         System.out.print(x);
     }
+
+    public static void printSomething(String a) {
+        System.out.println(a);
+    }
 }
